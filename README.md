@@ -1,0 +1,2 @@
+# AppSkeleton
+App Template Structure
